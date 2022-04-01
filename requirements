@@ -1,6 +1,0 @@
-click==8
-numpy
-seaborn
-matplotlib
-pandas
-streamlit
